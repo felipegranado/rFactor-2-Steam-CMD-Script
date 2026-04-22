@@ -1,6 +1,6 @@
 # rFactor-2-Steam-CMD-Script
 
-### PT
+## PT
 Script para fazer download dos conteúdos da Oficina da Steam e fazer a instalação automática. Perfeito para servidores que possuem muitos conteúdos a serem baixados e instalados.
 
 Passos:
@@ -10,7 +10,17 @@ Passos:
 4. Escolha se quer manter todos os arquivos, manter apenas os arquivos .RFCMP e .RFMOD ou se quer deletar tudo;
 5. Veja a mágica!
 
-### EN
+### Changelog:
+#### v1.0.0 - 22/04/2026
+- Lançamento inicial.
+- Adicionada opção para manter todos os arquivos, manter apenas .RFCMP e .RFMOD ou deletar tudo.
+- Script agora instala apenas as subpastas dos IDs informados.
+
+#### v0.1.0 - 13/10/2023
+- Versão de teste interno (alpha).
+
+
+## EN
 Script to download the contents of the Steam Workshop and perform automatic installation. Perfect for servers that have a lot of content to download and install.
 
 Steps:
@@ -20,10 +30,11 @@ Steps:
 4. Choose whether you want to keep all files, keep only the .RFCMP and .RFMOD files, or delete everything;
 5. See the magic!
 
-# Changelog:
+### Changelog:
 #### v1.0.0 - 22/04/2026
-- Adicionada opção para manter todos os arquivos, manter apenas .RFCMP e .RFMOD ou deletar tudo.
-- Script agora instala apenas as subpastas dos IDs informados.
+- Initial release.
+- Added option to keep all files, keep only .RFCMP and .RFMOD files, or delete everything.
+- Script now installs only the subfolders matching the informed IDs.
 
 #### v0.1.0 - 13/10/2023
-- Lançamento inicial.
+- Internal test version (alpha).
